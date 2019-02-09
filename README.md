@@ -11,8 +11,11 @@ This notebook uses code from the following repo. https://github.com/cysmith/neur
 Setup:-
 
 Download dependencies to your Google Colab Notebook.
+
 Dependencies Include;
+
 neural_style.py:- https://github.com/cysmith/neural-style-tf/blob/master/neural_style.py
+
 ImageNet:- http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat
 
 # Support:-
